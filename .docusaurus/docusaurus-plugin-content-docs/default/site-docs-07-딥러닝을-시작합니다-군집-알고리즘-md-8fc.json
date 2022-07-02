@@ -1,0 +1,27 @@
+{
+  "unversionedId": "07 딥러닝을 시작합니다/군집 알고리즘",
+  "id": "07 딥러닝을 시작합니다/군집 알고리즘",
+  "title": "07-1 인공 신경망",
+  "description": "패션 MNIST",
+  "source": "@site/docs/07 딥러닝을 시작합니다/군집 알고리즘.md",
+  "sourceDirName": "07 딥러닝을 시작합니다",
+  "slug": "/07 딥러닝을 시작합니다/군집 알고리즘",
+  "permalink": "/docs/07 딥러닝을 시작합니다/군집 알고리즘",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/07 딥러닝을 시작합니다/군집 알고리즘.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "07 딥러닝을 시작합니다",
+    "permalink": "/docs/category/07-딥러닝을-시작합니다"
+  },
+  "next": {
+    "title": "06-2 k-평균",
+    "permalink": "/docs/07 딥러닝을 시작합니다/k-평균"
+  }
+}

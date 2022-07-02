@@ -1,0 +1,27 @@
+{
+  "unversionedId": "06 비지도 학습/k-평균",
+  "id": "06 비지도 학습/k-평균",
+  "title": "06-2 k-평균",
+  "description": "k-평균 알고리즘 소개",
+  "source": "@site/docs/06 비지도 학습/k-평균.md",
+  "sourceDirName": "06 비지도 학습",
+  "slug": "/06 비지도 학습/k-평균",
+  "permalink": "/docs/06 비지도 학습/k-평균",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/06 비지도 학습/k-평균.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "06-1 군집 알고리즘",
+    "permalink": "/docs/06 비지도 학습/군집 알고리즘"
+  },
+  "next": {
+    "title": "06-3 주성분 분석",
+    "permalink": "/docs/06 비지도 학습/주성분 분석"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "08 이미지를 위한 인공 신경망/신경망 모델 훈련",
+  "id": "08 이미지를 위한 인공 신경망/신경망 모델 훈련",
+  "title": "07-3 신경망 모델 훈련",
+  "description": "손실 곡선",
+  "source": "@site/docs/08 이미지를 위한 인공 신경망/신경망 모델 훈련.md",
+  "sourceDirName": "08 이미지를 위한 인공 신경망",
+  "slug": "/08 이미지를 위한 인공 신경망/신경망 모델 훈련",
+  "permalink": "/docs/08 이미지를 위한 인공 신경망/신경망 모델 훈련",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/08 이미지를 위한 인공 신경망/신경망 모델 훈련.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "08-2 합성곱 신경망을 사용한 이미지 분류",
+    "permalink": "/docs/08 이미지를 위한 인공 신경망/합성곱 신경망을 사용한 이미지 분류"
+  }
+}

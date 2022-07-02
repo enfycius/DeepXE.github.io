@@ -1,0 +1,27 @@
+{
+  "unversionedId": "03 회귀 알고리즘과 모델 규제 copy/선형 회귀",
+  "id": "03 회귀 알고리즘과 모델 규제 copy/선형 회귀",
+  "title": "03-2 선형 회귀",
+  "description": "k-최근접 이웃의 한계",
+  "source": "@site/docs/03 회귀 알고리즘과 모델 규제 copy/선형 회귀.md",
+  "sourceDirName": "03 회귀 알고리즘과 모델 규제 copy",
+  "slug": "/03 회귀 알고리즘과 모델 규제 copy/선형 회귀",
+  "permalink": "/docs/03 회귀 알고리즘과 모델 규제 copy/선형 회귀",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/03 회귀 알고리즘과 모델 규제 copy/선형 회귀.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "03-1 k-최근접 이웃 회귀",
+    "permalink": "/docs/03 회귀 알고리즘과 모델 규제 copy/k-최근접 이웃 회귀"
+  },
+  "next": {
+    "title": "03-3 특성 공학의 규제",
+    "permalink": "/docs/03 회귀 알고리즘과 모델 규제 copy/특성 공학과 규제"
+  }
+}

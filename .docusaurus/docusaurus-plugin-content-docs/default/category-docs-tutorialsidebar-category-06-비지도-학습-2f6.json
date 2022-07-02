@@ -1,0 +1,15 @@
+{
+  "title": "06 비지도 학습",
+  "slug": "/category/06-비지도-학습",
+  "permalink": "/docs/category/06-비지도-학습",
+  "navigation": {
+    "previous": {
+      "title": "05-3 트리의 앙상블",
+      "permalink": "/docs/05 트리 알고리즘/트리의 앙상블"
+    },
+    "next": {
+      "title": "06-1 군집 알고리즘",
+      "permalink": "/docs/06 비지도 학습/군집 알고리즘"
+    }
+  }
+}

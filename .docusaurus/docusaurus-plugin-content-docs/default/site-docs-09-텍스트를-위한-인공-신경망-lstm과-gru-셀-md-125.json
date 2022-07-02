@@ -1,0 +1,23 @@
+{
+  "unversionedId": "09 텍스트를 위한 인공 신경망/LSTM과 GRU 셀",
+  "id": "09 텍스트를 위한 인공 신경망/LSTM과 GRU 셀",
+  "title": "09-3 LSTM과 GRU 셀",
+  "description": "LSTM 구조",
+  "source": "@site/docs/09 텍스트를 위한 인공 신경망/LSTM과 GRU 셀.md",
+  "sourceDirName": "09 텍스트를 위한 인공 신경망",
+  "slug": "/09 텍스트를 위한 인공 신경망/LSTM과 GRU 셀",
+  "permalink": "/docs/09 텍스트를 위한 인공 신경망/LSTM과 GRU 셀",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/09 텍스트를 위한 인공 신경망/LSTM과 GRU 셀.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "09-2 순환 신경망으로 IMDB 리뷰 분류하기",
+    "permalink": "/docs/09 텍스트를 위한 인공 신경망/순환 신경망으로 IMDB 리뷰 분류하기"
+  }
+}

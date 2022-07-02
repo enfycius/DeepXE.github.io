@@ -1,0 +1,27 @@
+{
+  "unversionedId": "06 비지도 학습/결정 트리",
+  "id": "06 비지도 학습/결정 트리",
+  "title": "06-1 군집 알고리즘",
+  "description": "타깃을 모르는 비지도 학습",
+  "source": "@site/docs/06 비지도 학습/결정 트리.md",
+  "sourceDirName": "06 비지도 학습",
+  "slug": "/06 비지도 학습/결정 트리",
+  "permalink": "/docs/06 비지도 학습/결정 트리",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/06 비지도 학습/결정 트리.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "06 비지도 학습",
+    "permalink": "/docs/category/06-비지도-학습"
+  },
+  "next": {
+    "title": "05-2 교차 검증과 그리드 서치",
+    "permalink": "/docs/06 비지도 학습/교차 검증과 그리드 서치"
+  }
+}
