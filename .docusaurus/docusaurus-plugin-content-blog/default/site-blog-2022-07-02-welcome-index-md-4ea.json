@@ -1,0 +1,64 @@
+{
+  "permalink": "/blog/welcome",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2022-07-02-welcome/index.md",
+  "source": "@site/blog/2022-07-02-welcome/index.md",
+  "title": "Welcome",
+  "description": "Hello.",
+  "date": "2022-07-02T00:00:00.000Z",
+  "formattedDate": "July 2, 2022",
+  "tags": [
+    {
+      "label": "hello",
+      "permalink": "/blog/tags/hello"
+    }
+  ],
+  "readingTime": 0.095,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "jonghyeok",
+      "title": "Researcher",
+      "url": "https://github.com/enfycius",
+      "imageURL": "https://cdn-icons.flaticon.com/png/512/560/premium/560277.png?token=exp=1656760291~hmac=3930a4e64270f18e5033a1774fa24f07",
+      "key": "jonghyeok"
+    },
+    {
+      "name": "woojin",
+      "title": "Researcher",
+      "imageURL": "https://cdn-icons.flaticon.com/png/512/560/premium/560277.png?token=exp=1656760291~hmac=3930a4e64270f18e5033a1774fa24f07",
+      "key": "woojin"
+    },
+    {
+      "name": "jonghun",
+      "title": "Researcher",
+      "imageURL": "https://cdn-icons.flaticon.com/png/512/560/premium/560277.png?token=exp=1656760291~hmac=3930a4e64270f18e5033a1774fa24f07",
+      "key": "jonghun"
+    },
+    {
+      "name": "donghan",
+      "title": "Researcher",
+      "imageURL": "https://cdn-icons.flaticon.com/png/512/560/premium/560277.png?token=exp=1656760291~hmac=3930a4e64270f18e5033a1774fa24f07",
+      "key": "donghan"
+    },
+    {
+      "name": "junghun",
+      "title": "Researcher",
+      "imageURL": "https://cdn-icons.flaticon.com/png/512/560/premium/560277.png?token=exp=1656760291~hmac=3930a4e64270f18e5033a1774fa24f07",
+      "key": "junghun"
+    }
+  ],
+  "frontMatter": {
+    "slug": "welcome",
+    "title": "Welcome",
+    "authors": [
+      "jonghyeok",
+      "woojin",
+      "jonghun",
+      "donghan",
+      "junghun"
+    ],
+    "tags": [
+      "hello"
+    ]
+  }
+}

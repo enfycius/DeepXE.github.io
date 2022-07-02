@@ -10,7 +10,7 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Tutorial Intro",
+        "label": "Tutorial",
         "href": "/docs/intro",
         "docId": "intro"
       },
@@ -400,7 +400,7 @@
     },
     "intro": {
       "id": "intro",
-      "title": "Tutorial Intro",
+      "title": "Tutorial",
       "description": "Let's study ML & DL with 혼공머신.",
       "sidebar": "tutorialSidebar"
     }
