@@ -1,0 +1,27 @@
+{
+  "unversionedId": "04 다양한 분류 알고리즘/선형 회귀",
+  "id": "04 다양한 분류 알고리즘/선형 회귀",
+  "title": "04-2 확률적 경사 하강법",
+  "description": "점진적인 학습",
+  "source": "@site/docs/04 다양한 분류 알고리즘/선형 회귀.md",
+  "sourceDirName": "04 다양한 분류 알고리즘",
+  "slug": "/04 다양한 분류 알고리즘/선형 회귀",
+  "permalink": "/docs/04 다양한 분류 알고리즘/선형 회귀",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/04 다양한 분류 알고리즘/선형 회귀.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "04-1 로지스틱 회귀",
+    "permalink": "/docs/04 다양한 분류 알고리즘/로지스틱 회귀"
+  },
+  "next": {
+    "title": "05 트리 알고리즘",
+    "permalink": "/docs/category/05-트리-알고리즘"
+  }
+}

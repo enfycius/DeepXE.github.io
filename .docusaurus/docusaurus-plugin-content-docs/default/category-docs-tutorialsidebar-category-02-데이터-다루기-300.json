@@ -1,0 +1,15 @@
+{
+  "title": "02 데이터 다루기",
+  "slug": "/category/02-데이터-다루기",
+  "permalink": "/docs/category/02-데이터-다루기",
+  "navigation": {
+    "previous": {
+      "title": "01-3 마켓과 머신러닝",
+      "permalink": "/docs/01 나의 첫 머신러닝/마켓과 머신러닝"
+    },
+    "next": {
+      "title": "02-1 훈련 세트와 테스트 세트",
+      "permalink": "/docs/02 데이터 다루기/훈련 세트와 테스트 세트"
+    }
+  }
+}

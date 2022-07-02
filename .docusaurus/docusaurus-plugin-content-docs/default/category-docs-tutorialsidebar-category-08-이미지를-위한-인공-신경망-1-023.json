@@ -1,0 +1,15 @@
+{
+  "title": "08 이미지를 위한 인공 신경망",
+  "slug": "/category/08-이미지를-위한-인공-신경망-1",
+  "permalink": "/docs/category/08-이미지를-위한-인공-신경망-1",
+  "navigation": {
+    "previous": {
+      "title": "08-3 합성곱 신경망의 시각화",
+      "permalink": "/docs/08 이미지를 위한 인공 신경망/합성곱 신경망의 시각화"
+    },
+    "next": {
+      "title": "08-1 합성곱 신경망의 구성 요소",
+      "permalink": "/docs/08 이미지를 위한 인공 신경망 copy/합성곱 신경망의 구성 요소"
+    }
+  }
+}

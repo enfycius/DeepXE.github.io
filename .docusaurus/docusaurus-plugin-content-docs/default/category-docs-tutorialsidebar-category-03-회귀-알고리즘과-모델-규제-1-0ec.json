@@ -1,0 +1,15 @@
+{
+  "title": "03 회귀 알고리즘과 모델 규제",
+  "slug": "/category/03-회귀-알고리즘과-모델-규제-1",
+  "permalink": "/docs/category/03-회귀-알고리즘과-모델-규제-1",
+  "navigation": {
+    "previous": {
+      "title": "03-3 특성 공학의 규제",
+      "permalink": "/docs/03 회귀 알고리즘과 모델 규제/특성 공학과 규제"
+    },
+    "next": {
+      "title": "03-1 k-최근접 이웃 회귀",
+      "permalink": "/docs/03 회귀 알고리즘과 모델 규제 copy/k-최근접 이웃 회귀"
+    }
+  }
+}

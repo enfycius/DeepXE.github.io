@@ -1,0 +1,27 @@
+{
+  "unversionedId": "06 비지도 학습/주성분 분석",
+  "id": "06 비지도 학습/주성분 분석",
+  "title": "06-3 주성분 분석",
+  "description": "차원과 차원 축소",
+  "source": "@site/docs/06 비지도 학습/주성분 분석.md",
+  "sourceDirName": "06 비지도 학습",
+  "slug": "/06 비지도 학습/주성분 분석",
+  "permalink": "/docs/06 비지도 학습/주성분 분석",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/06 비지도 학습/주성분 분석.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "06-2 k-평균",
+    "permalink": "/docs/06 비지도 학습/k-평균"
+  },
+  "next": {
+    "title": "07 딥러닝을 시작합니다",
+    "permalink": "/docs/category/07-딥러닝을-시작합니다"
+  }
+}

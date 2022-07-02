@@ -1,0 +1,27 @@
+{
+  "unversionedId": "01 나의 첫 머신러닝/마켓과 머신러닝",
+  "id": "01 나의 첫 머신러닝/마켓과 머신러닝",
+  "title": "01-3 마켓과 머신러닝",
+  "description": "생선 분류 문제",
+  "source": "@site/docs/01 나의 첫 머신러닝/마켓과 머신러닝.md",
+  "sourceDirName": "01 나의 첫 머신러닝",
+  "slug": "/01 나의 첫 머신러닝/마켓과 머신러닝",
+  "permalink": "/docs/01 나의 첫 머신러닝/마켓과 머신러닝",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01 나의 첫 머신러닝/마켓과 머신러닝.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "01-2 코랩과 주피터 노트북",
+    "permalink": "/docs/01 나의 첫 머신러닝/코랩과 주피터 노트북"
+  },
+  "next": {
+    "title": "02 데이터 다루기",
+    "permalink": "/docs/category/02-데이터-다루기"
+  }
+}

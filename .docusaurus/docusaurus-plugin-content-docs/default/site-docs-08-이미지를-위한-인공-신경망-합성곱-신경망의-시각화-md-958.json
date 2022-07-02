@@ -1,0 +1,27 @@
+{
+  "unversionedId": "08 이미지를 위한 인공 신경망/합성곱 신경망의 시각화",
+  "id": "08 이미지를 위한 인공 신경망/합성곱 신경망의 시각화",
+  "title": "08-3 합성곱 신경망의 시각화",
+  "description": "가중치 시각화",
+  "source": "@site/docs/08 이미지를 위한 인공 신경망/합성곱 신경망의 시각화.md",
+  "sourceDirName": "08 이미지를 위한 인공 신경망",
+  "slug": "/08 이미지를 위한 인공 신경망/합성곱 신경망의 시각화",
+  "permalink": "/docs/08 이미지를 위한 인공 신경망/합성곱 신경망의 시각화",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/08 이미지를 위한 인공 신경망/합성곱 신경망의 시각화.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "08-2 합성곱 신경망을 사용한 이미지 분류",
+    "permalink": "/docs/08 이미지를 위한 인공 신경망/합성곱 신경망을 사용한 이미지 분류"
+  },
+  "next": {
+    "title": "09 텍스트를 위한 인공 신경망",
+    "permalink": "/docs/category/09-텍스트를-위한-인공-신경망"
+  }
+}
