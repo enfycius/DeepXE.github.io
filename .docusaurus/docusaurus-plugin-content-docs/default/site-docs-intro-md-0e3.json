@@ -1,7 +1,7 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "title": "Tutorial Intro",
+  "title": "Tutorial",
   "description": "Let's study ML & DL with 혼공머신.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",

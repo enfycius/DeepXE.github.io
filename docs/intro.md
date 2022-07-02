@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Tutorial
 
 Let's study ML & DL with 혼공머신.
 
