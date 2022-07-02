@@ -1,0 +1,15 @@
+{
+  "title": "02 데이터 다루기",
+  "slug": "/category/02-데이터-다루기-1",
+  "permalink": "/docs/category/02-데이터-다루기-1",
+  "navigation": {
+    "previous": {
+      "title": "02-2 데이터 전처리",
+      "permalink": "/docs/02 데이터 다루기/데이터 전처리"
+    },
+    "next": {
+      "title": "02-1 훈련 세트와 테스트 세트",
+      "permalink": "/docs/02 데이터 다루기 copy/훈련 세트와 테스트 세트"
+    }
+  }
+}

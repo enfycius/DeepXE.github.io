@@ -1,0 +1,27 @@
+{
+  "unversionedId": "09 텍스트를 위한 인공 신경망/합성곱 신경망을 사용한 이미지 분류",
+  "id": "09 텍스트를 위한 인공 신경망/합성곱 신경망을 사용한 이미지 분류",
+  "title": "08-2 합성곱 신경망을 사용한 이미지 분류",
+  "description": "패션 MNIST 데이터 불러오기",
+  "source": "@site/docs/09 텍스트를 위한 인공 신경망/합성곱 신경망을 사용한 이미지 분류.md",
+  "sourceDirName": "09 텍스트를 위한 인공 신경망",
+  "slug": "/09 텍스트를 위한 인공 신경망/합성곱 신경망을 사용한 이미지 분류",
+  "permalink": "/docs/09 텍스트를 위한 인공 신경망/합성곱 신경망을 사용한 이미지 분류",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/09 텍스트를 위한 인공 신경망/합성곱 신경망을 사용한 이미지 분류.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "09-1 순차 데이터와 순환 신경망",
+    "permalink": "/docs/09 텍스트를 위한 인공 신경망/순차 데이터와 순환 신경망"
+  },
+  "next": {
+    "title": "08-3 합성곱 신경망의 시각화",
+    "permalink": "/docs/09 텍스트를 위한 인공 신경망/합성곱 신경망의 시각화"
+  }
+}

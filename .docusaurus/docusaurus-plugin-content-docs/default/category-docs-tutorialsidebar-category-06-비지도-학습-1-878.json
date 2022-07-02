@@ -1,0 +1,15 @@
+{
+  "title": "06 비지도 학습",
+  "slug": "/category/06-비지도-학습-1",
+  "permalink": "/docs/category/06-비지도-학습-1",
+  "navigation": {
+    "previous": {
+      "title": "06-3 주성분 분석",
+      "permalink": "/docs/06 비지도 학습/주성분 분석"
+    },
+    "next": {
+      "title": "06-1 군집 알고리즘",
+      "permalink": "/docs/06 비지도 학습 copy/군집 알고리즘"
+    }
+  }
+}

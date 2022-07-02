@@ -1,0 +1,15 @@
+{
+  "title": "04 다양한 분류 알고리즘",
+  "slug": "/category/04-다양한-분류-알고리즘-1",
+  "permalink": "/docs/category/04-다양한-분류-알고리즘-1",
+  "navigation": {
+    "previous": {
+      "title": "04-2 확률적 경사 하강법",
+      "permalink": "/docs/04 다양한 분류 알고리즘/선형 회귀"
+    },
+    "next": {
+      "title": "04-1 로지스틱 회귀",
+      "permalink": "/docs/04 다양한 분류 알고리즘 copy/로지스틱 회귀"
+    }
+  }
+}

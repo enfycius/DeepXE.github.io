@@ -1,0 +1,15 @@
+{
+  "title": "07 딥러닝을 시작합니다",
+  "slug": "/category/07-딥러닝을-시작합니다-1",
+  "permalink": "/docs/category/07-딥러닝을-시작합니다-1",
+  "navigation": {
+    "previous": {
+      "title": "07-3 신경망 모델 훈련",
+      "permalink": "/docs/07 딥러닝을 시작합니다/신경망 모델 훈련"
+    },
+    "next": {
+      "title": "07-1 인공 신경망",
+      "permalink": "/docs/07 딥러닝을 시작합니다 copy/인공 신경망"
+    }
+  }
+}

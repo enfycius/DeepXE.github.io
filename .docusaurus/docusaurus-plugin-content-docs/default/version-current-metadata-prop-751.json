@@ -1,0 +1,408 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Tutorial Intro",
+        "href": "/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "category",
+        "label": "01 나의 첫 머신러닝",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "01-1 인공지능과 머신러닝, 딥러닝",
+            "href": "/docs/01 나의 첫 머신러닝/인공지능과 머신러닝, 딥러닝",
+            "docId": "01 나의 첫 머신러닝/인공지능과 머신러닝, 딥러닝"
+          },
+          {
+            "type": "link",
+            "label": "01-2 코랩과 주피터 노트북",
+            "href": "/docs/01 나의 첫 머신러닝/코랩과 주피터 노트북",
+            "docId": "01 나의 첫 머신러닝/코랩과 주피터 노트북"
+          },
+          {
+            "type": "link",
+            "label": "01-3 마켓과 머신러닝",
+            "href": "/docs/01 나의 첫 머신러닝/마켓과 머신러닝",
+            "docId": "01 나의 첫 머신러닝/마켓과 머신러닝"
+          }
+        ],
+        "href": "/docs/category/01-나의-첫-머신러닝"
+      },
+      {
+        "type": "category",
+        "label": "02 데이터 다루기",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "02-1 훈련 세트와 테스트 세트",
+            "href": "/docs/02 데이터 다루기/훈련 세트와 테스트 세트",
+            "docId": "02 데이터 다루기/훈련 세트와 테스트 세트"
+          },
+          {
+            "type": "link",
+            "label": "02-2 데이터 전처리",
+            "href": "/docs/02 데이터 다루기/데이터 전처리",
+            "docId": "02 데이터 다루기/데이터 전처리"
+          }
+        ],
+        "href": "/docs/category/02-데이터-다루기"
+      },
+      {
+        "type": "category",
+        "label": "03 회귀 알고리즘과 모델 규제",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "03-1 k-최근접 이웃 회귀",
+            "href": "/docs/03 회귀 알고리즘과 모델 규제/k-최근접 이웃 회귀",
+            "docId": "03 회귀 알고리즘과 모델 규제/k-최근접 이웃 회귀"
+          },
+          {
+            "type": "link",
+            "label": "03-2 선형 회귀",
+            "href": "/docs/03 회귀 알고리즘과 모델 규제/선형 회귀",
+            "docId": "03 회귀 알고리즘과 모델 규제/선형 회귀"
+          },
+          {
+            "type": "link",
+            "label": "03-3 특성 공학의 규제",
+            "href": "/docs/03 회귀 알고리즘과 모델 규제/특성 공학과 규제",
+            "docId": "03 회귀 알고리즘과 모델 규제/특성 공학과 규제"
+          }
+        ],
+        "href": "/docs/category/03-회귀-알고리즘과-모델-규제"
+      },
+      {
+        "type": "category",
+        "label": "04 다양한 분류 알고리즘",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "04-1 로지스틱 회귀",
+            "href": "/docs/04 다양한 분류 알고리즘/로지스틱 회귀",
+            "docId": "04 다양한 분류 알고리즘/로지스틱 회귀"
+          },
+          {
+            "type": "link",
+            "label": "04-2 확률적 경사 하강법",
+            "href": "/docs/04 다양한 분류 알고리즘/선형 회귀",
+            "docId": "04 다양한 분류 알고리즘/선형 회귀"
+          }
+        ],
+        "href": "/docs/category/04-다양한-분류-알고리즘"
+      },
+      {
+        "type": "category",
+        "label": "05 트리 알고리즘",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "05-1 결정 트리",
+            "href": "/docs/05 트리 알고리즘/결정 트리",
+            "docId": "05 트리 알고리즘/결정 트리"
+          },
+          {
+            "type": "link",
+            "label": "05-2 교차 검증과 그리드 서치",
+            "href": "/docs/05 트리 알고리즘/교차 검증과 그리드 서치",
+            "docId": "05 트리 알고리즘/교차 검증과 그리드 서치"
+          },
+          {
+            "type": "link",
+            "label": "05-3 트리의 앙상블",
+            "href": "/docs/05 트리 알고리즘/트리의 앙상블",
+            "docId": "05 트리 알고리즘/트리의 앙상블"
+          }
+        ],
+        "href": "/docs/category/05-트리-알고리즘"
+      },
+      {
+        "type": "category",
+        "label": "06 비지도 학습",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "06-1 군집 알고리즘",
+            "href": "/docs/06 비지도 학습/군집 알고리즘",
+            "docId": "06 비지도 학습/군집 알고리즘"
+          },
+          {
+            "type": "link",
+            "label": "06-2 k-평균",
+            "href": "/docs/06 비지도 학습/k-평균",
+            "docId": "06 비지도 학습/k-평균"
+          },
+          {
+            "type": "link",
+            "label": "06-3 주성분 분석",
+            "href": "/docs/06 비지도 학습/주성분 분석",
+            "docId": "06 비지도 학습/주성분 분석"
+          }
+        ],
+        "href": "/docs/category/06-비지도-학습"
+      },
+      {
+        "type": "category",
+        "label": "07 딥러닝을 시작합니다",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "07-1 인공 신경망",
+            "href": "/docs/07 딥러닝을 시작합니다/인공 신경망",
+            "docId": "07 딥러닝을 시작합니다/인공 신경망"
+          },
+          {
+            "type": "link",
+            "label": "07-2 심층 신경망",
+            "href": "/docs/07 딥러닝을 시작합니다/심층 신경망",
+            "docId": "07 딥러닝을 시작합니다/심층 신경망"
+          },
+          {
+            "type": "link",
+            "label": "07-3 신경망 모델 훈련",
+            "href": "/docs/07 딥러닝을 시작합니다/신경망 모델 훈련",
+            "docId": "07 딥러닝을 시작합니다/신경망 모델 훈련"
+          }
+        ],
+        "href": "/docs/category/07-딥러닝을-시작합니다"
+      },
+      {
+        "type": "category",
+        "label": "08 이미지를 위한 인공 신경망",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "08-1 합성곱 신경망의 구성 요소",
+            "href": "/docs/08 이미지를 위한 인공 신경망/합성곱 신경망의 구성 요소",
+            "docId": "08 이미지를 위한 인공 신경망/합성곱 신경망의 구성 요소"
+          },
+          {
+            "type": "link",
+            "label": "08-2 합성곱 신경망을 사용한 이미지 분류",
+            "href": "/docs/08 이미지를 위한 인공 신경망/합성곱 신경망을 사용한 이미지 분류",
+            "docId": "08 이미지를 위한 인공 신경망/합성곱 신경망을 사용한 이미지 분류"
+          },
+          {
+            "type": "link",
+            "label": "08-3 합성곱 신경망의 시각화",
+            "href": "/docs/08 이미지를 위한 인공 신경망/합성곱 신경망의 시각화",
+            "docId": "08 이미지를 위한 인공 신경망/합성곱 신경망의 시각화"
+          }
+        ],
+        "href": "/docs/category/08-이미지를-위한-인공-신경망"
+      },
+      {
+        "type": "category",
+        "label": "09 텍스트를 위한 인공 신경망",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "09-1 순차 데이터와 순환 신경망",
+            "href": "/docs/09 텍스트를 위한 인공 신경망/순차 데이터와 순환 신경망",
+            "docId": "09 텍스트를 위한 인공 신경망/순차 데이터와 순환 신경망"
+          },
+          {
+            "type": "link",
+            "label": "09-2 순환 신경망으로 IMDB 리뷰 분류하기",
+            "href": "/docs/09 텍스트를 위한 인공 신경망/순환 신경망으로 IMDB 리뷰 분류하기",
+            "docId": "09 텍스트를 위한 인공 신경망/순환 신경망으로 IMDB 리뷰 분류하기"
+          },
+          {
+            "type": "link",
+            "label": "09-3 LSTM과 GRU 셀",
+            "href": "/docs/09 텍스트를 위한 인공 신경망/LSTM과 GRU 셀",
+            "docId": "09 텍스트를 위한 인공 신경망/LSTM과 GRU 셀"
+          }
+        ],
+        "href": "/docs/category/09-텍스트를-위한-인공-신경망"
+      }
+    ]
+  },
+  "docs": {
+    "01 나의 첫 머신러닝/마켓과 머신러닝": {
+      "id": "01 나의 첫 머신러닝/마켓과 머신러닝",
+      "title": "01-3 마켓과 머신러닝",
+      "description": "생선 분류 문제",
+      "sidebar": "tutorialSidebar"
+    },
+    "01 나의 첫 머신러닝/인공지능과 머신러닝, 딥러닝": {
+      "id": "01 나의 첫 머신러닝/인공지능과 머신러닝, 딥러닝",
+      "title": "01-1 인공지능과 머신러닝, 딥러닝",
+      "description": "인공지능이란",
+      "sidebar": "tutorialSidebar"
+    },
+    "01 나의 첫 머신러닝/코랩과 주피터 노트북": {
+      "id": "01 나의 첫 머신러닝/코랩과 주피터 노트북",
+      "title": "01-2 코랩과 주피터 노트북",
+      "description": "구글 코랩",
+      "sidebar": "tutorialSidebar"
+    },
+    "02 데이터 다루기/데이터 전처리": {
+      "id": "02 데이터 다루기/데이터 전처리",
+      "title": "02-2 데이터 전처리",
+      "description": "넘파이로 데이터 준비하기",
+      "sidebar": "tutorialSidebar"
+    },
+    "02 데이터 다루기/훈련 세트와 테스트 세트": {
+      "id": "02 데이터 다루기/훈련 세트와 테스트 세트",
+      "title": "02-1 훈련 세트와 테스트 세트",
+      "description": "지도 학습과 비지도 학습",
+      "sidebar": "tutorialSidebar"
+    },
+    "03 회귀 알고리즘과 모델 규제/선형 회귀": {
+      "id": "03 회귀 알고리즘과 모델 규제/선형 회귀",
+      "title": "03-2 선형 회귀",
+      "description": "k-최근접 이웃의 한계",
+      "sidebar": "tutorialSidebar"
+    },
+    "03 회귀 알고리즘과 모델 규제/특성 공학과 규제": {
+      "id": "03 회귀 알고리즘과 모델 규제/특성 공학과 규제",
+      "title": "03-3 특성 공학의 규제",
+      "description": "다중 회귀",
+      "sidebar": "tutorialSidebar"
+    },
+    "03 회귀 알고리즘과 모델 규제/k-최근접 이웃 회귀": {
+      "id": "03 회귀 알고리즘과 모델 규제/k-최근접 이웃 회귀",
+      "title": "03-1 k-최근접 이웃 회귀",
+      "description": "k-최근접 이웃 회귀",
+      "sidebar": "tutorialSidebar"
+    },
+    "04 다양한 분류 알고리즘/로지스틱 회귀": {
+      "id": "04 다양한 분류 알고리즘/로지스틱 회귀",
+      "title": "04-1 로지스틱 회귀",
+      "description": "럭키백의 확률",
+      "sidebar": "tutorialSidebar"
+    },
+    "04 다양한 분류 알고리즘/선형 회귀": {
+      "id": "04 다양한 분류 알고리즘/선형 회귀",
+      "title": "04-2 확률적 경사 하강법",
+      "description": "점진적인 학습",
+      "sidebar": "tutorialSidebar"
+    },
+    "05 트리 알고리즘/결정 트리": {
+      "id": "05 트리 알고리즘/결정 트리",
+      "title": "05-1 결정 트리",
+      "description": "로지스틱 회귀로 와인 분류하기",
+      "sidebar": "tutorialSidebar"
+    },
+    "05 트리 알고리즘/교차 검증과 그리드 서치": {
+      "id": "05 트리 알고리즘/교차 검증과 그리드 서치",
+      "title": "05-2 교차 검증과 그리드 서치",
+      "description": "검증 세트",
+      "sidebar": "tutorialSidebar"
+    },
+    "05 트리 알고리즘/트리의 앙상블": {
+      "id": "05 트리 알고리즘/트리의 앙상블",
+      "title": "05-3 트리의 앙상블",
+      "description": "정형 데이터와 비정형 데이터",
+      "sidebar": "tutorialSidebar"
+    },
+    "06 비지도 학습/군집 알고리즘": {
+      "id": "06 비지도 학습/군집 알고리즘",
+      "title": "06-1 군집 알고리즘",
+      "description": "타깃을 모르는 비지도 학습",
+      "sidebar": "tutorialSidebar"
+    },
+    "06 비지도 학습/주성분 분석": {
+      "id": "06 비지도 학습/주성분 분석",
+      "title": "06-3 주성분 분석",
+      "description": "차원과 차원 축소",
+      "sidebar": "tutorialSidebar"
+    },
+    "06 비지도 학습/k-평균": {
+      "id": "06 비지도 학습/k-평균",
+      "title": "06-2 k-평균",
+      "description": "k-평균 알고리즘 소개",
+      "sidebar": "tutorialSidebar"
+    },
+    "07 딥러닝을 시작합니다/신경망 모델 훈련": {
+      "id": "07 딥러닝을 시작합니다/신경망 모델 훈련",
+      "title": "07-3 신경망 모델 훈련",
+      "description": "손실 곡선",
+      "sidebar": "tutorialSidebar"
+    },
+    "07 딥러닝을 시작합니다/심층 신경망": {
+      "id": "07 딥러닝을 시작합니다/심층 신경망",
+      "title": "07-2 심층 신경망",
+      "description": "2개의 층",
+      "sidebar": "tutorialSidebar"
+    },
+    "07 딥러닝을 시작합니다/인공 신경망": {
+      "id": "07 딥러닝을 시작합니다/인공 신경망",
+      "title": "07-1 인공 신경망",
+      "description": "패션 MNIST",
+      "sidebar": "tutorialSidebar"
+    },
+    "08 이미지를 위한 인공 신경망/합성곱 신경망을 사용한 이미지 분류": {
+      "id": "08 이미지를 위한 인공 신경망/합성곱 신경망을 사용한 이미지 분류",
+      "title": "08-2 합성곱 신경망을 사용한 이미지 분류",
+      "description": "패션 MNIST 데이터 불러오기",
+      "sidebar": "tutorialSidebar"
+    },
+    "08 이미지를 위한 인공 신경망/합성곱 신경망의 구성 요소": {
+      "id": "08 이미지를 위한 인공 신경망/합성곱 신경망의 구성 요소",
+      "title": "08-1 합성곱 신경망의 구성 요소",
+      "description": "합성곱",
+      "sidebar": "tutorialSidebar"
+    },
+    "08 이미지를 위한 인공 신경망/합성곱 신경망의 시각화": {
+      "id": "08 이미지를 위한 인공 신경망/합성곱 신경망의 시각화",
+      "title": "08-3 합성곱 신경망의 시각화",
+      "description": "가중치 시각화",
+      "sidebar": "tutorialSidebar"
+    },
+    "09 텍스트를 위한 인공 신경망/순차 데이터와 순환 신경망": {
+      "id": "09 텍스트를 위한 인공 신경망/순차 데이터와 순환 신경망",
+      "title": "09-1 순차 데이터와 순환 신경망",
+      "description": "순차 데이터",
+      "sidebar": "tutorialSidebar"
+    },
+    "09 텍스트를 위한 인공 신경망/순환 신경망으로 IMDB 리뷰 분류하기": {
+      "id": "09 텍스트를 위한 인공 신경망/순환 신경망으로 IMDB 리뷰 분류하기",
+      "title": "09-2 순환 신경망으로 IMDB 리뷰 분류하기",
+      "description": "IMDB 리뷰 데이터셋",
+      "sidebar": "tutorialSidebar"
+    },
+    "09 텍스트를 위한 인공 신경망/LSTM과 GRU 셀": {
+      "id": "09 텍스트를 위한 인공 신경망/LSTM과 GRU 셀",
+      "title": "09-3 LSTM과 GRU 셀",
+      "description": "LSTM 구조",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Tutorial Intro",
+      "description": "Let's study ML & DL with 혼공머신.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/인공지능과 머신러닝, 딥러닝",
+  "id": "tutorial-basics/인공지능과 머신러닝, 딥러닝",
+  "title": "01-1 인공지능과 머신러닝, 딥러닝",
+  "description": "인공지능이란",
+  "source": "@site/docs/tutorial-basics/인공지능과 머신러닝, 딥러닝.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/인공지능과 머신러닝, 딥러닝",
+  "permalink": "/docs/tutorial-basics/인공지능과 머신러닝, 딥러닝",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/인공지능과 머신러닝, 딥러닝.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "나의 첫 머신러닝",
+    "permalink": "/docs/category/나의-첫-머신러닝"
+  },
+  "next": {
+    "title": "01-2 코랩과 주피터 노트북",
+    "permalink": "/docs/tutorial-basics/코랩과 주피터 노트북"
+  }
+}

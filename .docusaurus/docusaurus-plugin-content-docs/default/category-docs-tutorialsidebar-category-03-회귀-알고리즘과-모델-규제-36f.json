@@ -1,0 +1,15 @@
+{
+  "title": "03 회귀 알고리즘과 모델 규제",
+  "slug": "/category/03-회귀-알고리즘과-모델-규제",
+  "permalink": "/docs/category/03-회귀-알고리즘과-모델-규제",
+  "navigation": {
+    "previous": {
+      "title": "02-2 데이터 전처리",
+      "permalink": "/docs/02 데이터 다루기/데이터 전처리"
+    },
+    "next": {
+      "title": "03-1 k-최근접 이웃 회귀",
+      "permalink": "/docs/03 회귀 알고리즘과 모델 규제/k-최근접 이웃 회귀"
+    }
+  }
+}

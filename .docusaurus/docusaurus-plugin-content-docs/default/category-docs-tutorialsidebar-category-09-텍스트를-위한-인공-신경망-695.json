@@ -1,0 +1,15 @@
+{
+  "title": "09 텍스트를 위한 인공 신경망",
+  "slug": "/category/09-텍스트를-위한-인공-신경망",
+  "permalink": "/docs/category/09-텍스트를-위한-인공-신경망",
+  "navigation": {
+    "previous": {
+      "title": "08-3 합성곱 신경망의 시각화",
+      "permalink": "/docs/08 이미지를 위한 인공 신경망/합성곱 신경망의 시각화"
+    },
+    "next": {
+      "title": "09-1 순차 데이터와 순환 신경망",
+      "permalink": "/docs/09 텍스트를 위한 인공 신경망/순차 데이터와 순환 신경망"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "06 비지도 학습/트리의 앙상블",
+  "id": "06 비지도 학습/트리의 앙상블",
+  "title": "05-3 트리의 앙상블",
+  "description": "정형 데이터와 비정형 데이터",
+  "source": "@site/docs/06 비지도 학습/트리의 앙상블.md",
+  "sourceDirName": "06 비지도 학습",
+  "slug": "/06 비지도 학습/트리의 앙상블",
+  "permalink": "/docs/06 비지도 학습/트리의 앙상블",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/06 비지도 학습/트리의 앙상블.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "06-2 k-평균",
+    "permalink": "/docs/06 비지도 학습/k-평균"
+  }
+}

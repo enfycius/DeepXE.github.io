@@ -1,0 +1,15 @@
+{
+  "title": "05 트리 알고리즘",
+  "slug": "/category/05-트리-알고리즘",
+  "permalink": "/docs/category/05-트리-알고리즘",
+  "navigation": {
+    "previous": {
+      "title": "04-2 확률적 경사 하강법",
+      "permalink": "/docs/04 다양한 분류 알고리즘/선형 회귀"
+    },
+    "next": {
+      "title": "05-1 결정 트리",
+      "permalink": "/docs/05 트리 알고리즘/결정 트리"
+    }
+  }
+}

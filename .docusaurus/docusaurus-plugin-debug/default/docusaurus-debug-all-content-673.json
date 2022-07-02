@@ -1,0 +1,1313 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/kimjonghyeok/Documents/DeepXE.github.io/sidebars.js",
+          "contentPath": "/Users/kimjonghyeok/Documents/DeepXE.github.io/docs",
+          "contentPathLocalized": "/Users/kimjonghyeok/Documents/DeepXE.github.io/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "01 나의 첫 머신러닝/마켓과 머신러닝",
+              "id": "01 나의 첫 머신러닝/마켓과 머신러닝",
+              "title": "01-3 마켓과 머신러닝",
+              "description": "생선 분류 문제",
+              "source": "@site/docs/01 나의 첫 머신러닝/마켓과 머신러닝.md",
+              "sourceDirName": "01 나의 첫 머신러닝",
+              "slug": "/01 나의 첫 머신러닝/마켓과 머신러닝",
+              "permalink": "/docs/01 나의 첫 머신러닝/마켓과 머신러닝",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01 나의 첫 머신러닝/마켓과 머신러닝.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "01-2 코랩과 주피터 노트북",
+                "permalink": "/docs/01 나의 첫 머신러닝/코랩과 주피터 노트북"
+              },
+              "next": {
+                "title": "02 데이터 다루기",
+                "permalink": "/docs/category/02-데이터-다루기"
+              }
+            },
+            {
+              "unversionedId": "01 나의 첫 머신러닝/인공지능과 머신러닝, 딥러닝",
+              "id": "01 나의 첫 머신러닝/인공지능과 머신러닝, 딥러닝",
+              "title": "01-1 인공지능과 머신러닝, 딥러닝",
+              "description": "인공지능이란",
+              "source": "@site/docs/01 나의 첫 머신러닝/인공지능과 머신러닝, 딥러닝.md",
+              "sourceDirName": "01 나의 첫 머신러닝",
+              "slug": "/01 나의 첫 머신러닝/인공지능과 머신러닝, 딥러닝",
+              "permalink": "/docs/01 나의 첫 머신러닝/인공지능과 머신러닝, 딥러닝",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01 나의 첫 머신러닝/인공지능과 머신러닝, 딥러닝.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "01 나의 첫 머신러닝",
+                "permalink": "/docs/category/01-나의-첫-머신러닝"
+              },
+              "next": {
+                "title": "01-2 코랩과 주피터 노트북",
+                "permalink": "/docs/01 나의 첫 머신러닝/코랩과 주피터 노트북"
+              }
+            },
+            {
+              "unversionedId": "01 나의 첫 머신러닝/코랩과 주피터 노트북",
+              "id": "01 나의 첫 머신러닝/코랩과 주피터 노트북",
+              "title": "01-2 코랩과 주피터 노트북",
+              "description": "구글 코랩",
+              "source": "@site/docs/01 나의 첫 머신러닝/코랩과 주피터 노트북.md",
+              "sourceDirName": "01 나의 첫 머신러닝",
+              "slug": "/01 나의 첫 머신러닝/코랩과 주피터 노트북",
+              "permalink": "/docs/01 나의 첫 머신러닝/코랩과 주피터 노트북",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01 나의 첫 머신러닝/코랩과 주피터 노트북.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "01-1 인공지능과 머신러닝, 딥러닝",
+                "permalink": "/docs/01 나의 첫 머신러닝/인공지능과 머신러닝, 딥러닝"
+              },
+              "next": {
+                "title": "01-3 마켓과 머신러닝",
+                "permalink": "/docs/01 나의 첫 머신러닝/마켓과 머신러닝"
+              }
+            },
+            {
+              "unversionedId": "02 데이터 다루기/데이터 전처리",
+              "id": "02 데이터 다루기/데이터 전처리",
+              "title": "02-2 데이터 전처리",
+              "description": "넘파이로 데이터 준비하기",
+              "source": "@site/docs/02 데이터 다루기/데이터 전처리.md",
+              "sourceDirName": "02 데이터 다루기",
+              "slug": "/02 데이터 다루기/데이터 전처리",
+              "permalink": "/docs/02 데이터 다루기/데이터 전처리",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02 데이터 다루기/데이터 전처리.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "02-1 훈련 세트와 테스트 세트",
+                "permalink": "/docs/02 데이터 다루기/훈련 세트와 테스트 세트"
+              },
+              "next": {
+                "title": "03 회귀 알고리즘과 모델 규제",
+                "permalink": "/docs/category/03-회귀-알고리즘과-모델-규제"
+              }
+            },
+            {
+              "unversionedId": "02 데이터 다루기/훈련 세트와 테스트 세트",
+              "id": "02 데이터 다루기/훈련 세트와 테스트 세트",
+              "title": "02-1 훈련 세트와 테스트 세트",
+              "description": "지도 학습과 비지도 학습",
+              "source": "@site/docs/02 데이터 다루기/훈련 세트와 테스트 세트.md",
+              "sourceDirName": "02 데이터 다루기",
+              "slug": "/02 데이터 다루기/훈련 세트와 테스트 세트",
+              "permalink": "/docs/02 데이터 다루기/훈련 세트와 테스트 세트",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02 데이터 다루기/훈련 세트와 테스트 세트.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "02 데이터 다루기",
+                "permalink": "/docs/category/02-데이터-다루기"
+              },
+              "next": {
+                "title": "02-2 데이터 전처리",
+                "permalink": "/docs/02 데이터 다루기/데이터 전처리"
+              }
+            },
+            {
+              "unversionedId": "03 회귀 알고리즘과 모델 규제/선형 회귀",
+              "id": "03 회귀 알고리즘과 모델 규제/선형 회귀",
+              "title": "03-2 선형 회귀",
+              "description": "k-최근접 이웃의 한계",
+              "source": "@site/docs/03 회귀 알고리즘과 모델 규제/선형 회귀.md",
+              "sourceDirName": "03 회귀 알고리즘과 모델 규제",
+              "slug": "/03 회귀 알고리즘과 모델 규제/선형 회귀",
+              "permalink": "/docs/03 회귀 알고리즘과 모델 규제/선형 회귀",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/03 회귀 알고리즘과 모델 규제/선형 회귀.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "03-1 k-최근접 이웃 회귀",
+                "permalink": "/docs/03 회귀 알고리즘과 모델 규제/k-최근접 이웃 회귀"
+              },
+              "next": {
+                "title": "03-3 특성 공학의 규제",
+                "permalink": "/docs/03 회귀 알고리즘과 모델 규제/특성 공학과 규제"
+              }
+            },
+            {
+              "unversionedId": "03 회귀 알고리즘과 모델 규제/특성 공학과 규제",
+              "id": "03 회귀 알고리즘과 모델 규제/특성 공학과 규제",
+              "title": "03-3 특성 공학의 규제",
+              "description": "다중 회귀",
+              "source": "@site/docs/03 회귀 알고리즘과 모델 규제/특성 공학과 규제.md",
+              "sourceDirName": "03 회귀 알고리즘과 모델 규제",
+              "slug": "/03 회귀 알고리즘과 모델 규제/특성 공학과 규제",
+              "permalink": "/docs/03 회귀 알고리즘과 모델 규제/특성 공학과 규제",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/03 회귀 알고리즘과 모델 규제/특성 공학과 규제.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "03-2 선형 회귀",
+                "permalink": "/docs/03 회귀 알고리즘과 모델 규제/선형 회귀"
+              },
+              "next": {
+                "title": "04 다양한 분류 알고리즘",
+                "permalink": "/docs/category/04-다양한-분류-알고리즘"
+              }
+            },
+            {
+              "unversionedId": "03 회귀 알고리즘과 모델 규제/k-최근접 이웃 회귀",
+              "id": "03 회귀 알고리즘과 모델 규제/k-최근접 이웃 회귀",
+              "title": "03-1 k-최근접 이웃 회귀",
+              "description": "k-최근접 이웃 회귀",
+              "source": "@site/docs/03 회귀 알고리즘과 모델 규제/k-최근접 이웃 회귀.md",
+              "sourceDirName": "03 회귀 알고리즘과 모델 규제",
+              "slug": "/03 회귀 알고리즘과 모델 규제/k-최근접 이웃 회귀",
+              "permalink": "/docs/03 회귀 알고리즘과 모델 규제/k-최근접 이웃 회귀",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/03 회귀 알고리즘과 모델 규제/k-최근접 이웃 회귀.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "03 회귀 알고리즘과 모델 규제",
+                "permalink": "/docs/category/03-회귀-알고리즘과-모델-규제"
+              },
+              "next": {
+                "title": "03-2 선형 회귀",
+                "permalink": "/docs/03 회귀 알고리즘과 모델 규제/선형 회귀"
+              }
+            },
+            {
+              "unversionedId": "04 다양한 분류 알고리즘/로지스틱 회귀",
+              "id": "04 다양한 분류 알고리즘/로지스틱 회귀",
+              "title": "04-1 로지스틱 회귀",
+              "description": "럭키백의 확률",
+              "source": "@site/docs/04 다양한 분류 알고리즘/로지스틱 회귀.md",
+              "sourceDirName": "04 다양한 분류 알고리즘",
+              "slug": "/04 다양한 분류 알고리즘/로지스틱 회귀",
+              "permalink": "/docs/04 다양한 분류 알고리즘/로지스틱 회귀",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/04 다양한 분류 알고리즘/로지스틱 회귀.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "04 다양한 분류 알고리즘",
+                "permalink": "/docs/category/04-다양한-분류-알고리즘"
+              },
+              "next": {
+                "title": "04-2 확률적 경사 하강법",
+                "permalink": "/docs/04 다양한 분류 알고리즘/선형 회귀"
+              }
+            },
+            {
+              "unversionedId": "04 다양한 분류 알고리즘/선형 회귀",
+              "id": "04 다양한 분류 알고리즘/선형 회귀",
+              "title": "04-2 확률적 경사 하강법",
+              "description": "점진적인 학습",
+              "source": "@site/docs/04 다양한 분류 알고리즘/선형 회귀.md",
+              "sourceDirName": "04 다양한 분류 알고리즘",
+              "slug": "/04 다양한 분류 알고리즘/선형 회귀",
+              "permalink": "/docs/04 다양한 분류 알고리즘/선형 회귀",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/04 다양한 분류 알고리즘/선형 회귀.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "04-1 로지스틱 회귀",
+                "permalink": "/docs/04 다양한 분류 알고리즘/로지스틱 회귀"
+              },
+              "next": {
+                "title": "05 트리 알고리즘",
+                "permalink": "/docs/category/05-트리-알고리즘"
+              }
+            },
+            {
+              "unversionedId": "05 트리 알고리즘/결정 트리",
+              "id": "05 트리 알고리즘/결정 트리",
+              "title": "05-1 결정 트리",
+              "description": "로지스틱 회귀로 와인 분류하기",
+              "source": "@site/docs/05 트리 알고리즘/결정 트리.md",
+              "sourceDirName": "05 트리 알고리즘",
+              "slug": "/05 트리 알고리즘/결정 트리",
+              "permalink": "/docs/05 트리 알고리즘/결정 트리",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/05 트리 알고리즘/결정 트리.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "05 트리 알고리즘",
+                "permalink": "/docs/category/05-트리-알고리즘"
+              },
+              "next": {
+                "title": "05-2 교차 검증과 그리드 서치",
+                "permalink": "/docs/05 트리 알고리즘/교차 검증과 그리드 서치"
+              }
+            },
+            {
+              "unversionedId": "05 트리 알고리즘/교차 검증과 그리드 서치",
+              "id": "05 트리 알고리즘/교차 검증과 그리드 서치",
+              "title": "05-2 교차 검증과 그리드 서치",
+              "description": "검증 세트",
+              "source": "@site/docs/05 트리 알고리즘/교차 검증과 그리드 서치.md",
+              "sourceDirName": "05 트리 알고리즘",
+              "slug": "/05 트리 알고리즘/교차 검증과 그리드 서치",
+              "permalink": "/docs/05 트리 알고리즘/교차 검증과 그리드 서치",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/05 트리 알고리즘/교차 검증과 그리드 서치.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "05-1 결정 트리",
+                "permalink": "/docs/05 트리 알고리즘/결정 트리"
+              },
+              "next": {
+                "title": "05-3 트리의 앙상블",
+                "permalink": "/docs/05 트리 알고리즘/트리의 앙상블"
+              }
+            },
+            {
+              "unversionedId": "05 트리 알고리즘/트리의 앙상블",
+              "id": "05 트리 알고리즘/트리의 앙상블",
+              "title": "05-3 트리의 앙상블",
+              "description": "정형 데이터와 비정형 데이터",
+              "source": "@site/docs/05 트리 알고리즘/트리의 앙상블.md",
+              "sourceDirName": "05 트리 알고리즘",
+              "slug": "/05 트리 알고리즘/트리의 앙상블",
+              "permalink": "/docs/05 트리 알고리즘/트리의 앙상블",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/05 트리 알고리즘/트리의 앙상블.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "05-2 교차 검증과 그리드 서치",
+                "permalink": "/docs/05 트리 알고리즘/교차 검증과 그리드 서치"
+              },
+              "next": {
+                "title": "06 비지도 학습",
+                "permalink": "/docs/category/06-비지도-학습"
+              }
+            },
+            {
+              "unversionedId": "06 비지도 학습/군집 알고리즘",
+              "id": "06 비지도 학습/군집 알고리즘",
+              "title": "06-1 군집 알고리즘",
+              "description": "타깃을 모르는 비지도 학습",
+              "source": "@site/docs/06 비지도 학습/군집 알고리즘.md",
+              "sourceDirName": "06 비지도 학습",
+              "slug": "/06 비지도 학습/군집 알고리즘",
+              "permalink": "/docs/06 비지도 학습/군집 알고리즘",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/06 비지도 학습/군집 알고리즘.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "06 비지도 학습",
+                "permalink": "/docs/category/06-비지도-학습"
+              },
+              "next": {
+                "title": "06-2 k-평균",
+                "permalink": "/docs/06 비지도 학습/k-평균"
+              }
+            },
+            {
+              "unversionedId": "06 비지도 학습/주성분 분석",
+              "id": "06 비지도 학습/주성분 분석",
+              "title": "06-3 주성분 분석",
+              "description": "차원과 차원 축소",
+              "source": "@site/docs/06 비지도 학습/주성분 분석.md",
+              "sourceDirName": "06 비지도 학습",
+              "slug": "/06 비지도 학습/주성분 분석",
+              "permalink": "/docs/06 비지도 학습/주성분 분석",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/06 비지도 학습/주성분 분석.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "06-2 k-평균",
+                "permalink": "/docs/06 비지도 학습/k-평균"
+              },
+              "next": {
+                "title": "07 딥러닝을 시작합니다",
+                "permalink": "/docs/category/07-딥러닝을-시작합니다"
+              }
+            },
+            {
+              "unversionedId": "06 비지도 학습/k-평균",
+              "id": "06 비지도 학습/k-평균",
+              "title": "06-2 k-평균",
+              "description": "k-평균 알고리즘 소개",
+              "source": "@site/docs/06 비지도 학습/k-평균.md",
+              "sourceDirName": "06 비지도 학습",
+              "slug": "/06 비지도 학습/k-평균",
+              "permalink": "/docs/06 비지도 학습/k-평균",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/06 비지도 학습/k-평균.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "06-1 군집 알고리즘",
+                "permalink": "/docs/06 비지도 학습/군집 알고리즘"
+              },
+              "next": {
+                "title": "06-3 주성분 분석",
+                "permalink": "/docs/06 비지도 학습/주성분 분석"
+              }
+            },
+            {
+              "unversionedId": "07 딥러닝을 시작합니다/신경망 모델 훈련",
+              "id": "07 딥러닝을 시작합니다/신경망 모델 훈련",
+              "title": "07-3 신경망 모델 훈련",
+              "description": "손실 곡선",
+              "source": "@site/docs/07 딥러닝을 시작합니다/신경망 모델 훈련.md",
+              "sourceDirName": "07 딥러닝을 시작합니다",
+              "slug": "/07 딥러닝을 시작합니다/신경망 모델 훈련",
+              "permalink": "/docs/07 딥러닝을 시작합니다/신경망 모델 훈련",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/07 딥러닝을 시작합니다/신경망 모델 훈련.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "07-2 심층 신경망",
+                "permalink": "/docs/07 딥러닝을 시작합니다/심층 신경망"
+              },
+              "next": {
+                "title": "08 이미지를 위한 인공 신경망",
+                "permalink": "/docs/category/08-이미지를-위한-인공-신경망"
+              }
+            },
+            {
+              "unversionedId": "07 딥러닝을 시작합니다/심층 신경망",
+              "id": "07 딥러닝을 시작합니다/심층 신경망",
+              "title": "07-2 심층 신경망",
+              "description": "2개의 층",
+              "source": "@site/docs/07 딥러닝을 시작합니다/심층 신경망.md",
+              "sourceDirName": "07 딥러닝을 시작합니다",
+              "slug": "/07 딥러닝을 시작합니다/심층 신경망",
+              "permalink": "/docs/07 딥러닝을 시작합니다/심층 신경망",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/07 딥러닝을 시작합니다/심층 신경망.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "07-1 인공 신경망",
+                "permalink": "/docs/07 딥러닝을 시작합니다/인공 신경망"
+              },
+              "next": {
+                "title": "07-3 신경망 모델 훈련",
+                "permalink": "/docs/07 딥러닝을 시작합니다/신경망 모델 훈련"
+              }
+            },
+            {
+              "unversionedId": "07 딥러닝을 시작합니다/인공 신경망",
+              "id": "07 딥러닝을 시작합니다/인공 신경망",
+              "title": "07-1 인공 신경망",
+              "description": "패션 MNIST",
+              "source": "@site/docs/07 딥러닝을 시작합니다/인공 신경망.md",
+              "sourceDirName": "07 딥러닝을 시작합니다",
+              "slug": "/07 딥러닝을 시작합니다/인공 신경망",
+              "permalink": "/docs/07 딥러닝을 시작합니다/인공 신경망",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/07 딥러닝을 시작합니다/인공 신경망.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "07 딥러닝을 시작합니다",
+                "permalink": "/docs/category/07-딥러닝을-시작합니다"
+              },
+              "next": {
+                "title": "07-2 심층 신경망",
+                "permalink": "/docs/07 딥러닝을 시작합니다/심층 신경망"
+              }
+            },
+            {
+              "unversionedId": "08 이미지를 위한 인공 신경망/합성곱 신경망을 사용한 이미지 분류",
+              "id": "08 이미지를 위한 인공 신경망/합성곱 신경망을 사용한 이미지 분류",
+              "title": "08-2 합성곱 신경망을 사용한 이미지 분류",
+              "description": "패션 MNIST 데이터 불러오기",
+              "source": "@site/docs/08 이미지를 위한 인공 신경망/합성곱 신경망을 사용한 이미지 분류.md",
+              "sourceDirName": "08 이미지를 위한 인공 신경망",
+              "slug": "/08 이미지를 위한 인공 신경망/합성곱 신경망을 사용한 이미지 분류",
+              "permalink": "/docs/08 이미지를 위한 인공 신경망/합성곱 신경망을 사용한 이미지 분류",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/08 이미지를 위한 인공 신경망/합성곱 신경망을 사용한 이미지 분류.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "08-1 합성곱 신경망의 구성 요소",
+                "permalink": "/docs/08 이미지를 위한 인공 신경망/합성곱 신경망의 구성 요소"
+              },
+              "next": {
+                "title": "08-3 합성곱 신경망의 시각화",
+                "permalink": "/docs/08 이미지를 위한 인공 신경망/합성곱 신경망의 시각화"
+              }
+            },
+            {
+              "unversionedId": "08 이미지를 위한 인공 신경망/합성곱 신경망의 구성 요소",
+              "id": "08 이미지를 위한 인공 신경망/합성곱 신경망의 구성 요소",
+              "title": "08-1 합성곱 신경망의 구성 요소",
+              "description": "합성곱",
+              "source": "@site/docs/08 이미지를 위한 인공 신경망/합성곱 신경망의 구성 요소.md",
+              "sourceDirName": "08 이미지를 위한 인공 신경망",
+              "slug": "/08 이미지를 위한 인공 신경망/합성곱 신경망의 구성 요소",
+              "permalink": "/docs/08 이미지를 위한 인공 신경망/합성곱 신경망의 구성 요소",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/08 이미지를 위한 인공 신경망/합성곱 신경망의 구성 요소.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "08 이미지를 위한 인공 신경망",
+                "permalink": "/docs/category/08-이미지를-위한-인공-신경망"
+              },
+              "next": {
+                "title": "08-2 합성곱 신경망을 사용한 이미지 분류",
+                "permalink": "/docs/08 이미지를 위한 인공 신경망/합성곱 신경망을 사용한 이미지 분류"
+              }
+            },
+            {
+              "unversionedId": "08 이미지를 위한 인공 신경망/합성곱 신경망의 시각화",
+              "id": "08 이미지를 위한 인공 신경망/합성곱 신경망의 시각화",
+              "title": "08-3 합성곱 신경망의 시각화",
+              "description": "가중치 시각화",
+              "source": "@site/docs/08 이미지를 위한 인공 신경망/합성곱 신경망의 시각화.md",
+              "sourceDirName": "08 이미지를 위한 인공 신경망",
+              "slug": "/08 이미지를 위한 인공 신경망/합성곱 신경망의 시각화",
+              "permalink": "/docs/08 이미지를 위한 인공 신경망/합성곱 신경망의 시각화",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/08 이미지를 위한 인공 신경망/합성곱 신경망의 시각화.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "08-2 합성곱 신경망을 사용한 이미지 분류",
+                "permalink": "/docs/08 이미지를 위한 인공 신경망/합성곱 신경망을 사용한 이미지 분류"
+              },
+              "next": {
+                "title": "09 텍스트를 위한 인공 신경망",
+                "permalink": "/docs/category/09-텍스트를-위한-인공-신경망"
+              }
+            },
+            {
+              "unversionedId": "09 텍스트를 위한 인공 신경망/순차 데이터와 순환 신경망",
+              "id": "09 텍스트를 위한 인공 신경망/순차 데이터와 순환 신경망",
+              "title": "09-1 순차 데이터와 순환 신경망",
+              "description": "순차 데이터",
+              "source": "@site/docs/09 텍스트를 위한 인공 신경망/순차 데이터와 순환 신경망.md",
+              "sourceDirName": "09 텍스트를 위한 인공 신경망",
+              "slug": "/09 텍스트를 위한 인공 신경망/순차 데이터와 순환 신경망",
+              "permalink": "/docs/09 텍스트를 위한 인공 신경망/순차 데이터와 순환 신경망",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/09 텍스트를 위한 인공 신경망/순차 데이터와 순환 신경망.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "09 텍스트를 위한 인공 신경망",
+                "permalink": "/docs/category/09-텍스트를-위한-인공-신경망"
+              },
+              "next": {
+                "title": "09-2 순환 신경망으로 IMDB 리뷰 분류하기",
+                "permalink": "/docs/09 텍스트를 위한 인공 신경망/순환 신경망으로 IMDB 리뷰 분류하기"
+              }
+            },
+            {
+              "unversionedId": "09 텍스트를 위한 인공 신경망/순환 신경망으로 IMDB 리뷰 분류하기",
+              "id": "09 텍스트를 위한 인공 신경망/순환 신경망으로 IMDB 리뷰 분류하기",
+              "title": "09-2 순환 신경망으로 IMDB 리뷰 분류하기",
+              "description": "IMDB 리뷰 데이터셋",
+              "source": "@site/docs/09 텍스트를 위한 인공 신경망/순환 신경망으로 IMDB 리뷰 분류하기.md",
+              "sourceDirName": "09 텍스트를 위한 인공 신경망",
+              "slug": "/09 텍스트를 위한 인공 신경망/순환 신경망으로 IMDB 리뷰 분류하기",
+              "permalink": "/docs/09 텍스트를 위한 인공 신경망/순환 신경망으로 IMDB 리뷰 분류하기",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/09 텍스트를 위한 인공 신경망/순환 신경망으로 IMDB 리뷰 분류하기.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "09-1 순차 데이터와 순환 신경망",
+                "permalink": "/docs/09 텍스트를 위한 인공 신경망/순차 데이터와 순환 신경망"
+              },
+              "next": {
+                "title": "09-3 LSTM과 GRU 셀",
+                "permalink": "/docs/09 텍스트를 위한 인공 신경망/LSTM과 GRU 셀"
+              }
+            },
+            {
+              "unversionedId": "09 텍스트를 위한 인공 신경망/LSTM과 GRU 셀",
+              "id": "09 텍스트를 위한 인공 신경망/LSTM과 GRU 셀",
+              "title": "09-3 LSTM과 GRU 셀",
+              "description": "LSTM 구조",
+              "source": "@site/docs/09 텍스트를 위한 인공 신경망/LSTM과 GRU 셀.md",
+              "sourceDirName": "09 텍스트를 위한 인공 신경망",
+              "slug": "/09 텍스트를 위한 인공 신경망/LSTM과 GRU 셀",
+              "permalink": "/docs/09 텍스트를 위한 인공 신경망/LSTM과 GRU 셀",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/09 텍스트를 위한 인공 신경망/LSTM과 GRU 셀.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "09-2 순환 신경망으로 IMDB 리뷰 분류하기",
+                "permalink": "/docs/09 텍스트를 위한 인공 신경망/순환 신경망으로 IMDB 리뷰 분류하기"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Tutorial Intro",
+              "description": "Let's study ML & DL with 혼공머신.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "01 나의 첫 머신러닝",
+                "permalink": "/docs/category/01-나의-첫-머신러닝"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "01 나의 첫 머신러닝",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "01 나의 첫 머신러닝/인공지능과 머신러닝, 딥러닝"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "01 나의 첫 머신러닝/코랩과 주피터 노트북"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "01 나의 첫 머신러닝/마켓과 머신러닝"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/01-나의-첫-머신러닝",
+                  "permalink": "/docs/category/01-나의-첫-머신러닝"
+                }
+              },
+              {
+                "type": "category",
+                "label": "02 데이터 다루기",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "02 데이터 다루기/훈련 세트와 테스트 세트"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "02 데이터 다루기/데이터 전처리"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/02-데이터-다루기",
+                  "permalink": "/docs/category/02-데이터-다루기"
+                }
+              },
+              {
+                "type": "category",
+                "label": "03 회귀 알고리즘과 모델 규제",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "03 회귀 알고리즘과 모델 규제/k-최근접 이웃 회귀"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "03 회귀 알고리즘과 모델 규제/선형 회귀"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "03 회귀 알고리즘과 모델 규제/특성 공학과 규제"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/03-회귀-알고리즘과-모델-규제",
+                  "permalink": "/docs/category/03-회귀-알고리즘과-모델-규제"
+                }
+              },
+              {
+                "type": "category",
+                "label": "04 다양한 분류 알고리즘",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "04 다양한 분류 알고리즘/로지스틱 회귀"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "04 다양한 분류 알고리즘/선형 회귀"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/04-다양한-분류-알고리즘",
+                  "permalink": "/docs/category/04-다양한-분류-알고리즘"
+                }
+              },
+              {
+                "type": "category",
+                "label": "05 트리 알고리즘",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "05 트리 알고리즘/결정 트리"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "05 트리 알고리즘/교차 검증과 그리드 서치"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "05 트리 알고리즘/트리의 앙상블"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/05-트리-알고리즘",
+                  "permalink": "/docs/category/05-트리-알고리즘"
+                }
+              },
+              {
+                "type": "category",
+                "label": "06 비지도 학습",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "06 비지도 학습/군집 알고리즘"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "06 비지도 학습/k-평균"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "06 비지도 학습/주성분 분석"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/06-비지도-학습",
+                  "permalink": "/docs/category/06-비지도-학습"
+                }
+              },
+              {
+                "type": "category",
+                "label": "07 딥러닝을 시작합니다",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "07 딥러닝을 시작합니다/인공 신경망"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "07 딥러닝을 시작합니다/심층 신경망"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "07 딥러닝을 시작합니다/신경망 모델 훈련"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/07-딥러닝을-시작합니다",
+                  "permalink": "/docs/category/07-딥러닝을-시작합니다"
+                }
+              },
+              {
+                "type": "category",
+                "label": "08 이미지를 위한 인공 신경망",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "08 이미지를 위한 인공 신경망/합성곱 신경망의 구성 요소"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "08 이미지를 위한 인공 신경망/합성곱 신경망을 사용한 이미지 분류"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "08 이미지를 위한 인공 신경망/합성곱 신경망의 시각화"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/08-이미지를-위한-인공-신경망",
+                  "permalink": "/docs/category/08-이미지를-위한-인공-신경망"
+                }
+              },
+              {
+                "type": "category",
+                "label": "09 텍스트를 위한 인공 신경망",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "09 텍스트를 위한 인공 신경망/순차 데이터와 순환 신경망"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "09 텍스트를 위한 인공 신경망/순환 신경망으로 IMDB 리뷰 분류하기"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "09 텍스트를 위한 인공 신경망/LSTM과 GRU 셀"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/09-텍스트를-위한-인공-신경망",
+                  "permalink": "/docs/category/09-텍스트를-위한-인공-신경망"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/blog/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
+            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "title": "Welcome",
+            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "date": "2021-08-26T00:00:00.000Z",
+            "formattedDate": "August 26, 2021",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.405,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              },
+              {
+                "name": "Yangshun Tay",
+                "title": "Front End Engineer @ Facebook",
+                "url": "https://github.com/yangshun",
+                "imageURL": "https://github.com/yangshun.png",
+                "key": "yangshun"
+              }
+            ],
+            "frontMatter": {
+              "slug": "welcome",
+              "title": "Welcome",
+              "authors": [
+                "slorber",
+                "yangshun"
+              ],
+              "tags": [
+                "facebook",
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "nextItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            }
+          },
+          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+        },
+        {
+          "id": "mdx-blog-post",
+          "metadata": {
+            "permalink": "/blog/mdx-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
+            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+            "title": "MDX Blog Post",
+            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "date": "2021-08-01T00:00:00.000Z",
+            "formattedDate": "August 1, 2021",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              }
+            ],
+            "frontMatter": {
+              "slug": "mdx-blog-post",
+              "title": "MDX Blog Post",
+              "authors": [
+                "slorber"
+              ],
+              "tags": [
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          },
+          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+        },
+        {
+          "id": "long-blog-post",
+          "metadata": {
+            "permalink": "/blog/long-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
+            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "title": "Long Blog Post",
+            "description": "This is the summary of a very long blog post,",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 2.05,
+            "truncated": true,
+            "authors": [
+              {
+                "name": "Endilie Yacop Sucipto",
+                "title": "Maintainer of Docusaurus",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "endi"
+              }
+            ],
+            "frontMatter": {
+              "slug": "long-blog-post",
+              "title": "Long Blog Post",
+              "authors": "endi",
+              "tags": [
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            },
+            "nextItem": {
+              "title": "First Blog Post",
+              "permalink": "/blog/first-blog-post"
+            }
+          },
+          "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        },
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/blog/first-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
+            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              }
+            ],
+            "frontMatter": {
+              "slug": "first-blog-post",
+              "title": "First Blog Post",
+              "authors": {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              },
+              "tags": [
+                "hola",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          },
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 4,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/blog/tags/facebook": {
+          "label": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/blog/tags/facebook",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/facebook",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/hello": {
+          "label": "hello",
+          "items": [
+            "welcome",
+            "long-blog-post"
+          ],
+          "permalink": "/blog/tags/hello",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "long-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/hello",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 2,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/docusaurus": {
+          "label": "docusaurus",
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "mdx-blog-post",
+                "long-blog-post",
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 4,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/hola": {
+          "label": "hola",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/hola",
+          "pages": [
+            {
+              "items": [
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/hola",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.tsx"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

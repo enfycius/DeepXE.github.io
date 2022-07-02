@@ -1,0 +1,16 @@
+{
+  "title": "01 나의 첫 머신러닝",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/01-나의-첫-머신러닝",
+  "permalink": "/docs/category/01-나의-첫-머신러닝",
+  "navigation": {
+    "previous": {
+      "title": "Tutorial Intro",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "01-1 인공지능과 머신러닝, 딥러닝",
+      "permalink": "/docs/01 나의 첫 머신러닝/인공지능과 머신러닝, 딥러닝"
+    }
+  }
+}
