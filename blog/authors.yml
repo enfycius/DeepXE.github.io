@@ -1,17 +1,29 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+jonghyeok:
+  name: jonghyeok
+  title: Researcher
+  url: https://github.com/enfycius
+  image_url: https://cdn-icons.flaticon.com/png/512/560/premium/560277.png?token=exp=1656760291~hmac=3930a4e64270f18e5033a1774fa24f07
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+woojin:
+  name: woojin
+  title: Researcher
+  # url: 
+  image_url: https://cdn-icons.flaticon.com/png/512/560/premium/560277.png?token=exp=1656760291~hmac=3930a4e64270f18e5033a1774fa24f07
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+jonghun:
+  name: jonghun
+  title: Researcher
+  # url: 
+  image_url: https://cdn-icons.flaticon.com/png/512/560/premium/560277.png?token=exp=1656760291~hmac=3930a4e64270f18e5033a1774fa24f07
+
+donghan:
+  name: donghan
+  title: Researcher
+  # url: 
+  image_url: https://cdn-icons.flaticon.com/png/512/560/premium/560277.png?token=exp=1656760291~hmac=3930a4e64270f18e5033a1774fa24f07
+
+junghun:
+  name: junghun
+  title: Researcher
+  # url: 
+  image_url: https://cdn-icons.flaticon.com/png/512/560/premium/560277.png?token=exp=1656760291~hmac=3930a4e64270f18e5033a1774fa24f07
